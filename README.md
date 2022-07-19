@@ -6,4 +6,4 @@ If you’re learning to program for the first time, or if you’re coming from a
 ## Author
 
 - [@MohamedHeshamGitHub](https://github.com/MohamedHesham1511)
-- [@MohamedHeshamLinkedIn](https://www.linkedin.com/in/mohamed-hesham1511/)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hesham1511/)
