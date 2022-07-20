@@ -6,7 +6,7 @@ If you’re learning to program for the first time, or if you’re coming from a
 
 - a) Download the Repository as a ZIP file, then expand it.
 - b) VScode is recommended as an IDE with [TODO Highlight, Peacock] as Extensions.
-- c) For Better UI Experience Please make sure [.vscode] folder is included in the downloaded ZIP file. 
+- c) For Better UI Experience Please make sure [.vscode] folder is included in the downloaded ZIP file and open the whole directory using VScode.
 
 ## Feedback
 
